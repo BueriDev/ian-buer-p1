@@ -1,0 +1,19 @@
+{
+  "name": "ian-buer-p1",
+  "version": "1.0.0",
+  "description": "Project 1 for ITDEV-161",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BueriDev/ian-buer-p1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BueriDev/ian-buer-p1/issues"
+  },
+  "homepage": "https://github.com/BueriDev/ian-buer-p1#readme"
+}
